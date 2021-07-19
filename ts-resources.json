@@ -3,7 +3,7 @@
 	text-locale-var: "Text locale text with var: {0}",
 	text-tree: {
 		inherit-text-value: "Tree internal text"
-	}
+	},
 	ui: {
 		button: {
 			saveChanges: "Сохранить изменения"
